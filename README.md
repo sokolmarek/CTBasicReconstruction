@@ -1,4 +1,4 @@
-# CTBasicReconstruction
+# CT Basic reconstruction algorithms
 
 Functions demonstrating the basic principles of image reconstruction in computed tomography. In particular back projection, fltered biack projection using Ramlak filter and iterative reconstruction. It also contains functions for creating a singoram (converting an image into radon space) and for phantom generation using polymask function.
 
