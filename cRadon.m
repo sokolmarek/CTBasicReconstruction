@@ -1,6 +1,5 @@
 function sg = cRadon(img, theta)
 %RADONTRASFORM  returns the Radon transform
-%   Custom function working on a basic principle
 %   Input:
 %   img - Matrix containing sample image to transform
 %   theta - Projection angles (in degrees)
