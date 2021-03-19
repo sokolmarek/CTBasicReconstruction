@@ -1,6 +1,5 @@
 function bp = cFBP(sg, theta)
 %FILTEREDBACKPROJECTION Filtered backrpojection
-%   Custom function working on a basic principle 
 %   Filtered backprojection using ramlak triangular filter
 %   Inputs:
 %   sg - Sinogram (image converted to radon space)
