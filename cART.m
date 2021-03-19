@@ -1,6 +1,5 @@
 function ir = cART(sg, theta, niter)
 %ITERATIVERECONSTRUCTION Iterative reconstruction
-%   Custom function working on a basic principle
 %   Inputs:
 %   sg - Sinogram (image converted to radon space)
 %   theta - Projection angles (in degrees)
